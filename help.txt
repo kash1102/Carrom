@@ -1,0 +1,14 @@
+﻿Working of carrom
+
+spacebar to hit
+arrow up to increase speed;
+arrow down to decrease speed;
+a = anticlockwise rotation
+c = clockwise rotation
+
+mouse
+right click to drag;
+left click to set angle in that particular direction ( )
+middle click to increase speed
+
+P.S dont increase speed too much and the line and speed dont sync that well keep that two or three times the radius.
